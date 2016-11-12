@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Halant');
+
+html, body, a, p {
+  font-family: 'Halant', sans-serif;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+  margin-left: 0px;
+}
+
+a:hover {
+  text-decoration:none;
+  color: #555;
+  margin-left: 5px;
+}
