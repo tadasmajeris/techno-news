@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Halant');
 
-html, body, a, p {
+html, body, a, p, h1 {
   font-family: 'Halant', sans-serif;
 }
 
